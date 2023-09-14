@@ -1,0 +1,6 @@
+env/
+.env
+practice*
+files/*
+!files/.gitkeep
+__pycache__
